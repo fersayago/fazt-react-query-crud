@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "id": 1,
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "name": "mouse",
+      "id": 2,
+      "description": "mouse gaming",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "name": "keyboard",
+      "id": 3,
+      "description": "keyboard gaming",
+      "price": 200,
+      "inStock": true
+    },
+    {
+      "name": "monitor",
+      "id": 4,
+      "description": "monitor gaming",
+      "price": 300,
+      "inStock": true
+    },
+    {
+      "name": "headset",
+      "id": 5,
+      "description": "headset gaming",
+      "price": 400,
+      "inStock": true
+    },
+    {
+      "name": "chair",
+      "id": 6,
+      "description": "chair gaming",
+      "price": 500,
+      "inStock": true
+    },
+    {
+      "name": "desk",
+      "id": 7,
+      "description": "desk gaming",
+      "price": 600,
+      "inStock": true
+    },
+    {
+      "name": "mousepad",
+      "id": 8,
+      "description": "mousepad gaming",
+      "price": 700,
+      "inStock": true
+    },
+    {
+      "name": "pc",
+      "id": 9,
+      "description": "pc gaming",
+      "price": 800,
+      "inStock": true
+    },
+    {
+      "name": "cpu",
+      "id": 10,
+      "description": "cpu gaming",
+      "price": 900,
+      "inStock": true
+    }
+  ]
+}

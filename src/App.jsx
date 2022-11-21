@@ -1,8 +1,9 @@
-import Products from "./components/Products"
+import { Products, ProductForm } from "./components"
 
 const App = () => {
   return (
     <>
+      <ProductForm />
       <Products />
     </>
   )
